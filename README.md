@@ -1,3 +1,3 @@
 # discussion
 
-This is a discussion.
+This is a discussion project.
